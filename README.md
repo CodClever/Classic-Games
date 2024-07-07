@@ -1,4 +1,4 @@
-<h1>**Hello!**</h1>
+<h1>Hello!</h1>
 
 <h3>Credits:</h3> 
 1. Tik Tak Toe By yelynn(Ye Lynn Khant, https://github.com/yelynn1/tictactoe)<br>
