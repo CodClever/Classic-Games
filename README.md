@@ -2,7 +2,7 @@
 
 <h3>Credits:</h3> 
 1. Tik Tak Toe By yelynn(Ye Lynn Khant, https://github.com/yelynn1/tictactoe)<br>
-2. Snake Game By JDStraughan(Jason Straughan, https://github.com/JDStraughan/html5-snake)<br>
+2. Snake Game By JDStraughan(Jason Straughan, https://github.com/JDStraughan/html5-snake)<br><br>
          
 These are games are made in HTML and CSS and JS excluding the snake game.
 
