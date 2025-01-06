@@ -20,5 +20,5 @@ I have not tested these games on any other browser than Chrome.
 If you have any suggestions or comments, please feel free to contact me.
 
 Thanks!<br>
-<b>Arinjay Kumar</b><br>
+<b>CodClever</b><br>
 <p1>Indie Hobbiest Sooftware Developer and Engineer</p1>
